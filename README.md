@@ -1,4 +1,4 @@
-Telecom customer churn dataset model task
+A simple, but a bit tricky modelling task, based on telecom customer churn dataset
 
 # Links
 

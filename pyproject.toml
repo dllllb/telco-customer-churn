@@ -3,7 +3,7 @@ name = "telco-customer-churn"
 version = "0.1.0"
 description = "A simple, but a bit tricky modelling task, based on telecom customer churn dataset"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.8"
 dependencies = [
     "pandas>=0.23",
     "numpy>=1.14",
